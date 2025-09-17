@@ -1,4 +1,11 @@
-## Hi there 👋
+## Zuhaira Noor
+Computer Science Major and Entrepreneurship Minor
+
+Washington and Lee University
+
+Class of 2027
+
+Learn more about me [here](https://zu-noor.github.io/BUS387/About-Me.html)!
 
 <!--
 **zu-noor/zu-noor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
